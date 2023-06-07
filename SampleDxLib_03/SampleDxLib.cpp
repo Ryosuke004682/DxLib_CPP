@@ -15,7 +15,7 @@ int WINAPI WinMain(_In_ HINSTANCE , _In_opt_ HINSTANCE , _In_ LPSTR , _In_ int)
 	//ŠŠ‚ç‚©‚È‰æ–Ê‘JˆÚ
 	float Fade  = 0.0f;
 	float red   = 0.0f;
-	float grean = 0.0f;
+	float green = 0.0f;
 	float blue  = 0.0f;
 
 
@@ -28,10 +28,10 @@ int WINAPI WinMain(_In_ HINSTANCE , _In_opt_ HINSTANCE , _In_ LPSTR , _In_ int)
 		}
 
 		red   = sin(Fade * DEGTORAD) * 255;
-		grean = sin(Fade * DEGTORAD) * 255;
+		green = sin(Fade * DEGTORAD) * 255;
 		blue  = sin(Fade * DEGTORAD) * 255;
 
-		DrawBox(0, 0 , 640 , 480 , GetColor(red , grean ,blue) , true);
+		DrawBox(0, 0 , 640 , 480 , GetColor(red , green ,blue) , true);
 		DrawFormatString(0 , 0 , GetColor(255 , 0 , 0) , "%f" , Fade);
 	}
 	
