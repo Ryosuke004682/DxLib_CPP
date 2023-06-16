@@ -1,0 +1,2 @@
+C:\DirectX_Project\SampleDxLib_\x64\Debug\SampleDxLib_.exe
+C:\DirectX_Project\SampleDxLib_10\x64\Debug\SampleDxLib_.exe
