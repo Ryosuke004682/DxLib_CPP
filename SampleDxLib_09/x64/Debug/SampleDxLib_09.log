@@ -1,0 +1,8 @@
+﻿  ソース.cpp
+C:\DxLib_VC3_24b\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\DirectX_Project\SampleDxLib_09\ソース.cpp(39,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\DirectX_Project\SampleDxLib_09\ソース.cpp(39,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\DirectX_Project\SampleDxLib_09\ソース.cpp(67,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\DirectX_Project\SampleDxLib_09\ソース.cpp(68,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\DirectX_Project\SampleDxLib_09\ソース.cpp(72,22): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  SampleDxLib_09.vcxproj -> C:\DirectX_Project\SampleDxLib_09\x64\Debug\SampleDxLib_09.exe
